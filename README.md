@@ -1,4 +1,4 @@
-## Hey, I'm Dennis 👋
+## Hey, I'm Dennis
 
 Final-year AI Engineering student at the **University of Alicante**.
 
@@ -25,6 +25,7 @@ I'm interested in what happens after the notebook: how models get deployed, moni
 
 **[hmda-fairness-audit](https://github.com/dgsolera-ai/hmda-fairness-audit)** — Detecting and mitigating racial bias in mortgage lending decisions across 283K real loan applications. Cut the racial approval gap from 34.6 to 13.7 percentage points using Fairlearn, and quantified exactly what it cost in model performance.
 
+**[lunarlander-policy-gradients](https://github.com/dgsolera-ai/lunarlander-policy-gradients)** — Policy gradients on LunarLander. An entropy bonus set 10x too high taught the agent to hover forever instead of landing — reward looked fine, episode duration gave it away. Diagnosed and fixed.
 ---
 
 ### 📫 Reach me
