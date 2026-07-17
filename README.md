@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hey, I'm Dennis 👋
 
-<!--
-**dgsolera-ai/dgsolera-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year AI Engineering student at the **University of Alicante**.
 
-Here are some ideas to get you started:
+I'm interested in what happens after the notebook: how models get deployed, monitored, and what they actually do to the people on the other side of their decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**
+- 🔬 Working on fairness auditing and explainability for ML systems
+- 🏗️ Building end-to-end data pipelines (Airflow · Spark · Delta Lake)
+- 📚 Preparing my final year thesis
+- 🌱 Learning MLOps in depth — FastAPI, Docker, model monitoring
+
+---
+
+### 🔧 Stack
+
+**Languages** — Python · SQL · Bash  
+**ML** — PyTorch · scikit-learn · LightGBM · SHAP · Fairlearn  
+**Data** — Spark · Airflow · Delta Lake · MinIO · pandas  
+**Infra** — Docker · Linux · Git
+
+---
+
+### 📌 Featured
+
+**[hmda-fairness-audit](https://github.com/dgsolera-ai/hmda-fairness-audit)** — Detecting and mitigating racial bias in mortgage lending decisions across 283K real loan applications. Cut the racial approval gap from 34.6 to 13.7 percentage points using Fairlearn, and quantified exactly what it cost in model performance.
+
+---
+
+### 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/dennisgarciasolera/) · dennisgarciasolera@gmail.com
+
+Open to internship opportunities — ML in production, data engineering.
