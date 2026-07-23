@@ -29,6 +29,8 @@ I'm interested in what happens after the notebook: how models get deployed, moni
 
 **[graph-neural-networks](https://github.com/dgsolera-ai/graph-neural-networks)** — From GNN fundamentals to an NP-hard problem: a controlled study of when graph structure actually helps (GCN goes from 0.53 to perfect accuracy depending on homophily), then solving Maximum Clique with a GNN + Replicator Dynamics hybrid.
 
+**[llm-systems-from-scratch](https://github.com/dgsolera-ai/llm-systems-from-scratch)** — The modern LLM stack built from scratch on a 1.5B CPU model: prompt engineering, RAG (with hybrid semantic + lexical search), and LangChain agents. Focused on where each technique breaks, not just where it works.
+
 ---
 
 ### 📫 Reach me
