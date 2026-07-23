@@ -27,6 +27,8 @@ I'm interested in what happens after the notebook: how models get deployed, moni
 
 **[lunarlander-policy-gradients](https://github.com/dgsolera-ai/lunarlander-policy-gradients)** — Policy gradients on LunarLander. An entropy bonus set 10x too high taught the agent to hover forever instead of landing — reward looked fine, episode duration gave it away. Diagnosed and fixed.
 
+**[graph-neural-networks](https://github.com/dgsolera-ai/graph-neural-networks)** — From GNN fundamentals to an NP-hard problem: a controlled study of when graph structure actually helps (GCN goes from 0.53 to perfect accuracy depending on homophily), then solving Maximum Clique with a GNN + Replicator Dynamics hybrid.
+
 ---
 
 ### 📫 Reach me
